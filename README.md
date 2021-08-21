@@ -4,9 +4,21 @@
 
 ## Sobre 
 
-Este e um aplicativo de busca de perfil e de usuário do github.Este aplicativo faz parte do conteúdo de aprendizagem do bootcamp DevSuperior.
+Este e um aplicativo de busca de perfil e de usuário do github.Este projeto faz parte do conteúdo de aprendizagem do bootcamp DevSuperior.
+Este projeto foi criado com o create-react-app, usando o template typescript.
 
 ## Layout
+<p align="center">
+  <img width="1000" src="src/ImagemPerfil.jpg">
+</P>
+
+## Material de apoio
+
+Link do protótipo no Figma: https://www.figma.com/file/NzeGEIb5oSAGtbu2BfvhDS/BDS-Cap3
+
+## Como execultar o projeto
+
+Clone o projeto em sua maquina, entre na pasta do projeto e pelo terminal execulte o comando npm start.
 
 
 
