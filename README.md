@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Github-user-search
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/charlistonrodrigo/github-user-search/blob/main/LICENSE)
+
+## Sobre 
+
+Este e um aplicativo de busca de perfil e de usuário do github.Este aplicativo faz parte do conteúdo de aprendizagem do bootcamp DevSuperior.
+
+## Layout
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
